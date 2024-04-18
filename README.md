@@ -1,7 +1,5 @@
 ## Hi there, I'm Jose Oviedo CEO and developer of DesarrollandoApps [website] 👋 
 
-[![Website](https://img.shields.io/website?label=desarrollandoapps.net&style=for-the-badge&url=https%3A%2F%2Fdesarrollandoapps.net)](https://desarrollandoapps.net)
-
 ## I'm a Father, husband, developer, teacher and researcher!!
 
 - 🌱 I’m currently learning everything 🤣
