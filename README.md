@@ -1,4 +1,4 @@
-## Hi there, I'm Jose Oviedo CEO and developer of DesarrollandoApps [website] 👋 
+## Hi there, I'm Jose Oviedo web developer [website] 👋 
 
 ## I'm a Father, husband, developer, teacher and researcher!!
 
